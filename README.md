@@ -4,6 +4,7 @@
   <tr>
     <td width="50%" valign="center">
       <strong>About Me</strong><br><br>
+      I am happy to share that I will join MSCSE at GaTech in 2026 Fall :)<br>
       I am a research-oriented student working at the intersection of
       <strong>Information Systems, Machine Learning, and Social Science</strong>.<br>
       I have research experience at <strong>WHU</strong>, <strong>HKUST ISOM</strong>,
