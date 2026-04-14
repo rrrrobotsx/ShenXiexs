@@ -8,7 +8,7 @@
       I am a research-oriented student working at the intersection of
       <strong>Information Systems, Machine Learning, and Social Science</strong>.<br>
       I have research experience at <strong>WHU</strong>, <strong>HKUST ISOM</strong>,
-      and am currently a <strong>Research Assistant at ISOM & AI Lab, HEC Paris</strong>.
+      and I am currently a <strong>Research Assistant at ISOM & AI Lab, HEC Paris</strong>.
     </td>
     <td width="50%" valign="center">
       <strong>Research Interests</strong><br><br>
