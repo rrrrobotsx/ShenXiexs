@@ -26,7 +26,8 @@
 ---
 
 ## Connect with Me :)
-- **Email**: samxiexs@gmail.com  | **LinkedIn**: https://www.linkedin.com/in/xssamxie/ | https://www.linkedin.com/in/samxiexs
+- **Email**: samxiexs@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/xssamxie/ | https://www.linkedin.com/in/samxiexs
 
 
 ---
@@ -37,15 +38,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="32"/>
-<br><br>
-<strong>ML &amp; Data</strong><br>
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="32"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="32"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="32"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="32"/>
-<br><br>
-<strong>Systems &amp; Web</strong><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="32"/>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="32"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32"/>
