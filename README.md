@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="welcome-header.gif" alt="Welcome to Shen Xie's GitHub profile">
+  <img src="welcome-header.gif" alt="Welcome to Shen Xie's GitHub profile" width="40%">
   <br><br>
-
-  <h2>Hi, I'm Shen Xie (Sam) 👋</h2>
 </div>
 
 ---
 
 ## About Me
+
+Hi, I'm Shen Xie (Sam) 👋
 
 I am currently a **Research Assistant at ISOM & AI Lab, HEC Paris**, with prior research experience at **Wuhan University** and **HKUST ISOM**. In Fall 2026, I will join **Georgia Tech** for the **M.S. in Computational Science and Engineering** program. I am interested in building rigorous, data-driven research that connects machine learning systems with real platform, market, and user behavior.
 
